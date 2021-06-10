@@ -1,0 +1,5 @@
+Privilege Escalation Techniques from Sudo Privileged Commands
+
+sudo -l # Shows what the user can run as sudo
+
+https://gtfobins.github.io/
